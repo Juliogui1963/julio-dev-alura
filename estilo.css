@@ -1,0 +1,16 @@
+body{
+    background-color:#dddddd;
+    text-align: center;
+}
+main{
+    align-items: center;
+    margin-top:5%;
+    margin-bottom: 10%;
+
+}
+.item-resultado{
+    align-items: center;
+    background: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
