@@ -15,8 +15,8 @@ let dados = [
         titulo : "Beatriz Souza",
         descrição : "Beatriz Souza é a mais nova estrela do judô brasileiro.Com sua força e técnica impecável, ela conquistou o ouro olímpico em Paris 2024, inspirando uma nova geração de judocas. Sua trajetória é marcada por dedicação e superação, e ela se tornou um símbolo do esporte brasileiro",
         link : "https://pt.wikipedia.org/wiki/Beatriz_Souza"
-    }
-     {
+    },
+    {
         titulo : "Tatiana Weston-Webb",
         descrição : "Tatiana Weston-Webb é uma surfista brasileira reconhecida por seu desempenho. Ela é um das maiores representantes do surf brasileiro no cenário mundial.",
         link : "https://pt.wikipedia.org/wiki/Tatiana Weston-Webb"
